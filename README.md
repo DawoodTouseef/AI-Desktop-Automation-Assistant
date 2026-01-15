@@ -1,5 +1,4 @@
-# JARVIS Virtual Assistant
-
+# AI Desktop Automation Assistant
 ![JARVIS Logo](assests/jarvis-logo1.jpg)
 
 ## **🧠 Introduction**  
