@@ -51,8 +51,8 @@ Built using modern technologies like **PyQt5, OpenCV, and advanced AI models**, 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/DawoodTouseef/JARVIS.git
-   cd JARVIS
+   git clone https://github.com/DawoodTouseef/AI-Desktop-Automation-Assistant.git
+   cd AI-Desktop-Automation-Assistant
    ```
 2. **Create and Activate a Virtual Environment**
     ```bash
