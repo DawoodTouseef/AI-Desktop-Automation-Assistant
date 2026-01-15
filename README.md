@@ -3,7 +3,7 @@
 
 ## **🧠 Introduction**  
 
-Welcome to **JARVIS Virtual Assistant**, an AI-powered desktop application inspired by the legendary J.A.R.V.I.S. from the Marvel Cinematic Universe. Designed to function as an intelligent, proactive, and highly interactive digital assistant, JARVIS enhances productivity, monitors system performance, and provides an intuitive user experience through voice, text, and visual inputs.  
+Welcome to **AI Desktop Automation Assistantt**, an AI-powered desktop application inspired by the legendary J.A.R.V.I.S. from the Marvel Cinematic Universe. Designed to function as an intelligent, proactive, and highly interactive digital assistant, JARVIS enhances productivity, monitors system performance, and provides an intuitive user experience through voice, text, and visual inputs.  
 
 Built using modern technologies like **PyQt5, OpenCV, and advanced AI models**, JARVIS delivers a **highly extensible, production-ready solution** for both personal and professional use.  
 
